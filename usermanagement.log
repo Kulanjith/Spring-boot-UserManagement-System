@@ -1,0 +1,151 @@
+2021-04-12 02:52:16.330  INFO 6107 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 6107 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 02:52:16.333  INFO 6107 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 02:52:16.914  INFO 6107 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 02:52:16.965  INFO 6107 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 44ms. Found 1 JPA repository interfaces.
+2021-04-12 02:52:17.445  INFO 6107 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 02:52:17.454  INFO 6107 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 02:52:17.455  INFO 6107 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 02:52:17.531  INFO 6107 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 02:52:17.531  INFO 6107 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1156 ms
+2021-04-12 02:52:17.683  INFO 6107 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 02:52:17.809  INFO 6107 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 02:52:17.854  INFO 6107 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 02:52:17.893  INFO 6107 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 02:52:17.994  INFO 6107 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 02:52:18.100  INFO 6107 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 02:52:18.505  INFO 6107 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 02:52:18.511  INFO 6107 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 02:52:18.780  WARN 6107 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 02:52:18.898  INFO 6107 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 02:52:19.061  INFO 6107 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 02:52:19.069  INFO 6107 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.105 seconds (JVM running for 3.436)
+2021-04-12 08:29:53.869  INFO 3115 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 3115 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 08:29:53.872  INFO 3115 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 08:29:54.523  INFO 3115 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 08:29:54.579  INFO 3115 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 48ms. Found 1 JPA repository interfaces.
+2021-04-12 08:29:55.108  INFO 3115 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 08:29:55.119  INFO 3115 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 08:29:55.120  INFO 3115 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 08:29:55.207  INFO 3115 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 08:29:55.207  INFO 3115 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1282 ms
+2021-04-12 08:29:55.371  INFO 3115 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 08:29:55.547  INFO 3115 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 08:29:55.594  INFO 3115 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 08:29:55.647  INFO 3115 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 08:29:55.773  INFO 3115 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 08:29:55.888  INFO 3115 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 08:29:56.329  INFO 3115 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 08:29:56.335  INFO 3115 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:29:56.658  WARN 3115 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 08:29:56.784  INFO 3115 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:29:57.006  INFO 3115 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 08:29:57.019  INFO 3115 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.609 seconds (JVM running for 4.048)
+2021-04-12 08:39:10.876  INFO 3115 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:39:10.877  INFO 3115 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:39:10.878  INFO 3115 --- [SpringContextShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-12 08:39:10.886  INFO 3115 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-04-12 08:39:10.889  INFO 3115 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-04-12 08:39:38.585  INFO 3899 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 3899 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 08:39:38.587  INFO 3899 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 08:39:39.167  INFO 3899 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 08:39:39.217  INFO 3899 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42ms. Found 1 JPA repository interfaces.
+2021-04-12 08:39:39.688  INFO 3899 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 08:39:39.697  INFO 3899 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 08:39:39.698  INFO 3899 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 08:39:39.787  INFO 3899 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 08:39:39.787  INFO 3899 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1155 ms
+2021-04-12 08:39:39.925  INFO 3899 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 08:39:40.047  INFO 3899 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 08:39:40.090  INFO 3899 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 08:39:40.124  INFO 3899 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 08:39:40.225  INFO 3899 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 08:39:40.328  INFO 3899 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 08:39:40.737  INFO 3899 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 08:39:40.744  INFO 3899 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:39:41.042  WARN 3899 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 08:39:41.148  INFO 3899 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:39:41.316  INFO 3899 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 08:39:41.324  INFO 3899 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.117 seconds (JVM running for 3.491)
+2021-04-12 08:41:12.208  INFO 3899 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:41:12.209  INFO 3899 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:41:12.210  INFO 3899 --- [SpringContextShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-12 08:41:12.215  INFO 3899 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-04-12 08:41:12.217  INFO 3899 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-04-12 08:41:14.163  INFO 4062 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 4062 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 08:41:14.165  INFO 4062 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 08:41:14.767  INFO 4062 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 08:41:14.825  INFO 4062 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 50ms. Found 1 JPA repository interfaces.
+2021-04-12 08:41:15.319  INFO 4062 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 08:41:15.328  INFO 4062 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 08:41:15.329  INFO 4062 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 08:41:15.416  INFO 4062 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 08:41:15.416  INFO 4062 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1204 ms
+2021-04-12 08:41:15.550  INFO 4062 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 08:41:15.689  INFO 4062 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 08:41:15.735  INFO 4062 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 08:41:15.774  INFO 4062 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 08:41:15.878  INFO 4062 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 08:41:15.982  INFO 4062 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 08:41:16.395  INFO 4062 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 08:41:16.402  INFO 4062 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:41:16.704  WARN 4062 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 08:41:16.809  INFO 4062 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:41:16.981  INFO 4062 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 08:41:16.988  INFO 4062 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.189 seconds (JVM running for 3.529)
+2021-04-12 08:41:47.725  INFO 4062 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:41:47.726  INFO 4062 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:41:47.727  INFO 4062 --- [SpringContextShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-12 08:41:47.734  INFO 4062 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-04-12 08:41:47.737  INFO 4062 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-04-12 08:41:49.769  INFO 4209 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 4209 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 08:41:49.772  INFO 4209 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 08:41:50.362  INFO 4209 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 08:41:50.409  INFO 4209 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40ms. Found 1 JPA repository interfaces.
+2021-04-12 08:41:50.898  INFO 4209 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 08:41:50.908  INFO 4209 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 08:41:50.909  INFO 4209 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 08:41:50.991  INFO 4209 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 08:41:50.991  INFO 4209 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1159 ms
+2021-04-12 08:41:51.128  INFO 4209 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 08:41:51.263  INFO 4209 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 08:41:51.305  INFO 4209 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 08:41:51.342  INFO 4209 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 08:41:51.440  INFO 4209 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 08:41:51.539  INFO 4209 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 08:41:51.946  INFO 4209 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 08:41:51.951  INFO 4209 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:41:52.250  WARN 4209 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 08:41:52.361  INFO 4209 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:41:52.540  INFO 4209 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 08:41:52.550  INFO 4209 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.139 seconds (JVM running for 3.49)
+2021-04-12 08:44:23.854  INFO 4209 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:44:23.855  INFO 4209 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:44:23.857  INFO 4209 --- [SpringContextShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-12 08:44:23.867  INFO 4209 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-04-12 08:44:23.875  INFO 4209 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2021-04-12 08:45:49.049  INFO 4518 --- [main] c.s.A.U.UserManagementCrudApplication    : Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 4518 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 08:45:49.052  INFO 4518 --- [main] c.s.A.U.UserManagementCrudApplication    : No active profile set, falling back to default profiles: default
+2021-04-12 08:45:49.651  INFO 4518 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-04-12 08:45:49.708  INFO 4518 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 49ms. Found 1 JPA repository interfaces.
+2021-04-12 08:45:50.184  INFO 4518 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8085 (http)
+2021-04-12 08:45:50.194  INFO 4518 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-12 08:45:50.195  INFO 4518 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-04-12 08:45:50.284  INFO 4518 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-12 08:45:50.284  INFO 4518 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1191 ms
+2021-04-12 08:45:50.418  INFO 4518 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-04-12 08:45:50.545  INFO 4518 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-04-12 08:45:50.587  INFO 4518 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-04-12 08:45:50.623  INFO 4518 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.28.Final
+2021-04-12 08:45:50.717  INFO 4518 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-04-12 08:45:50.815  INFO 4518 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-04-12 08:45:51.229  INFO 4518 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-04-12 08:45:51.235  INFO 4518 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:45:51.522  WARN 4518 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-04-12 08:45:51.628  INFO 4518 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:45:51.791  INFO 4518 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8085 (http) with context path ''
+2021-04-12 08:45:51.799  INFO 4518 --- [main] c.s.A.U.UserManagementCrudApplication    : Started UserManagementCrudApplication in 3.119 seconds (JVM running for 3.445)
+2021-04-12 08:48:30.393  INFO 4518 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-04-12 08:48:30.394  INFO 4518 --- [SpringContextShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-04-12 08:48:30.395  INFO 4518 --- [SpringContextShutdownHook] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2021-04-12 08:48:30.403  INFO 4518 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-04-12 08:48:30.406  INFO 4518 --- [SpringContextShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

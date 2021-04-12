@@ -1,0 +1,12 @@
+2021-04-12 09:16:14,258 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 6022 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 09:16:14,260 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-04-12 09:16:14,261 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-04-12 09:16:16,998 INFO org.springframework.boot.StartupInfoLogger [main] Started UserManagementCrudApplication in 3.173 seconds (JVM running for 3.521)
+2021-04-12 09:17:05,876 INFO com.springboot.API.UserManagementCRUD.controller.UserController [http-nio-8085-exec-1] Request received to create user [kasun]
+2021-04-12 09:17:05,908 INFO com.springboot.API.UserManagementCRUD.controller.UserController [http-nio-8085-exec-1] User [kasun] saved
+2021-04-12 09:22:49,545 INFO com.springboot.API.UserManagementCRUD.controller.UserController [http-nio-8085-exec-6] Users Fletch successfully
+2021-04-12 09:25:52,178 INFO com.springboot.API.UserManagementCRUD.controller.UserController [http-nio-8085-exec-2] Users fetched with firstname 
+2021-04-12 09:50:33,777 INFO org.springframework.boot.StartupInfoLogger [main] Starting UserManagementCrudApplication on devin-Inspiron-5505 with PID 6733 (/home/devin/Documents/UMS/User-Management-CRUD/target/classes started by devin in /home/devin/Documents/UMS/User-Management-CRUD)
+2021-04-12 09:50:33,779 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.9.RELEASE, Spring v5.2.13.RELEASE
+2021-04-12 09:50:33,780 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-04-12 09:50:36,464 INFO org.springframework.boot.StartupInfoLogger [main] Started UserManagementCrudApplication in 3.094 seconds (JVM running for 3.445)
